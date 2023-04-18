@@ -1,4 +1,2 @@
-Hi! Im Dylan and I am a graduate student at San Diego State University in the Big Data Analytics Program.
-I graduated from Michigan State University with a degree in Statistics and a Minor in Data Science.
-I love learning all things code and I like to challenge myself.  I am currently looking for a part time job or internship to do concurrently with my studies.
+Hi! Im Dylan and I am a graduate student at San Diego State University in the Big Data Analytics Program graduating in May 2023. I graduated from Michigan State University with a degree in Statistics and a Minor in Data Science. I love learning all things data and I like to challenge myself.  I have leadership experience as the lab coordinator for the AI4Busniess Lab and leading the largest research project for the lab (The Ukarine War Stock Prediction Project). I also have teaching experience for 6 different classes, both undergraduate and graduate corses. Im seeking opportunities to apply my machine learning expertise.  I enjoy working with teams to solve complex problems that have an impact on our world.
 
